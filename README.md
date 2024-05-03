@@ -2,8 +2,9 @@
 
 This project is a clone of the Netflix website. It replicates some of the main features and layout of the Netflix homepage.
 
+## Visit My Netflix Clone
 
-Link-https://rm312.github.io/NetflixClone/
+[Click here to visit my Netflix Clone!](https://rm312.github.io/NetflixClone/)
 
 ## Description
 
